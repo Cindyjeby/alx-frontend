@@ -14,3 +14,7 @@
 4. How to make a website responsive
 5. The differences between responsive and adaptive design
 6. CSS units that are used to make elements flexible
+
+## Additional resources
+1. For task 2 (02-1-index.html) <a href="https://developer.chrome.com/docs/devtools/">Whatever the browser you use, it’s a good idea from now on, to toggle the device view.</a>
+2. For task 3 (03-index.html) <a href="https://www.responsivebreakpoints.com/">Go to Responsive Breakpoints</a>
